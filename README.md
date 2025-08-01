@@ -4,9 +4,7 @@
 
 ### 1. Install dependencies
 
-```bash
-
-```
+read requirements.txt
 
 ### 2. Download datasets
 
